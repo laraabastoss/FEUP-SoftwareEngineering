@@ -28,3 +28,5 @@ https://github.com/laraabastoss/SoftwareEngineering/assets/92671491/f55e29b4-2fe
 - Carlos Manuel da Silva Costa (up202004151)
 - Lara Santos Bastos (up202108740)
 - Rita Gonçalves Pereira (uo202108746)
+
+**Project Repository:** https://github.com/laraabastoss/SoftwareEngineering/tree/main/proj
