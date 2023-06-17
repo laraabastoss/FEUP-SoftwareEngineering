@@ -21,3 +21,10 @@ https://github.com/laraabastoss/SoftwareEngineering/assets/92671491/f55e29b4-2fe
 
 
 **Technologies Used:** Flutter, flutter_gherkin, OpenStreetMaps and GeoCoding APIs
+
+**Team Members:**
+- Afonso Castro Vaz Osorio - 202108700
+- Alberto Daniel Alves Serra - 202103627
+- Carlos Manuel da Silva Costa - 202004151
+- Lara Santos Bastos - 202108740
+- Rita Gonçalves Pereira - 202108746
