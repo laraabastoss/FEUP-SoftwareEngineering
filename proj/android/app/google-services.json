@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1083753846676",
+    "firebase_url": "https://studysphere-c6de1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studysphere-c6de1",
+    "storage_bucket": "studysphere-c6de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083753846676:android:c912088fcbeb73f70f2181",
+        "android_client_info": {
+          "package_name": "pt.up.fe.edu.brain_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083753846676-6pfsmpacd3hokp692f9nnes7njkb819j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd5X3lXhBgCsnWyRC3pPjwYbO7iHF6tzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083753846676-6pfsmpacd3hokp692f9nnes7njkb819j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
