@@ -15,9 +15,6 @@ Welcome to the documentation pages of *StudySphere*
   * [Physical architecture](docs/ArchitectureAndDesign.md#Physical-architecture)
   * [Vertical prototype](docs/ArchitectureAndDesign.md#Vertical-architecture)
   * [UI Mockups](docs/ArchitectureAndDesign.md#ui-mockups)
-* [Implementation]
-* [Test]
-* [Configuration and change management]
 * [Project management](docs/ProjectManagement.md)
 <br>
 
