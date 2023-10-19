@@ -6,7 +6,6 @@
  
  ### Project - StudySphere (Grade: 19.5/20)
  
- Developement of a mobile application in Flutter using agile methods such as Scrum and XP. 
 
 
 <div align="center"> 
